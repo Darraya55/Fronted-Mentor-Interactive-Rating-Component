@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Darraya55/Fronted-Mentor-Interactive-Rating-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://darraya55.github.io/Fronted-Mentor-Interactive-Rating-Component/)
 
 ## My process
 
@@ -46,8 +46,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - 
-- [Example resource 2](https://stackoverflow.com/questions/14750078/style-disabled-button-with-css) - 
+- (https://stackoverflow.com/questions/14750078/style-disabled-button-with-css) - 
 
 ## Author
 
