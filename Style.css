@@ -1,0 +1,131 @@
+.body {
+	background: hsl(216, 12%, 8%);
+	font-size: 14px;
+	display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.div {
+	width: 350px;
+	height: 350px;
+	background: hsl(215, 25%, 12%);
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	padding-left: 30px;
+	border-radius: 30px;
+}
+
+.font {
+	color: white;
+	font-family: 'Overpass', sans-serif;
+	font-weight: 700;
+}
+
+.font2 {
+	color: hsl(216, 12%, 54%);
+	font-size: 15px;
+	font-family: 'Overpass', sans-serif;
+	font-weight: 400;
+}
+
+.star {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background: hsl(213, 19%, 18%);
+	display:table-cell;
+	vertical-align:middle;
+	text-align:center
+
+}
+
+.numbers {
+	color: white;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	border: none;
+	background: hsl(213, 19%, 18%);
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.numbers:hover {
+	cursor: pointer;
+	background: hsl(25, 97%, 53%);
+}
+
+.numbers:focus {
+	background: hsl(216, 12%, 54%);
+}
+
+.numbers:active {
+	background: aliceblue;
+}
+
+.Ncontainer {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 35px;
+}
+
+.button {
+	width: 330px;
+	height: 50px;
+	border-radius: 50px;
+	border: none;
+	background: hsl(25, 97%, 53%);
+	color: white;
+	margin-top: 30px;
+	border: none;
+}
+
+.button:hover {
+	cursor: pointer;
+	background: white;
+	color: hsl(25, 97%, 53%);
+}
+
+.button:active {
+	background: aliceblue;
+}
+
+.thanks {
+	width: 350px;
+	height: 350px;
+	background: hsl(215, 25%, 12%);
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-left: 30px;
+	border-radius: 30px;
+	text-align:center
+}
+
+.hide {
+	display: none;
+}
+
+.disable {
+	cursor: not-allowed;
+	pointer-events: none;
+}
+
+.selection {
+	width: 350px;
+	height: 25px;
+	border-radius: 30px;
+	margin-top: 30px;
+	padding-top: 10px;
+	background: hsl(213, 19%, 18%);
+	opacity: ;
+	color: hsl(25, 97%, 53%);
+	font-size: 15px;
+	font-family: 'overpass', sans-serif;
+	font-weight: 400;
+	justify-content: center;
+}
